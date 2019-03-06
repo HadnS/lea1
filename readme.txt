@@ -1,2 +1,2 @@
 git is a  second version control system.
-git second
+git second distributed version
